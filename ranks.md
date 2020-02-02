@@ -21,7 +21,7 @@ This document describes the internal organization of **Mugiwara' no Ichimi**, sp
 | `Éclaireur` | >7d | >200k |
 | `Réserviste` | >15d | >400k |
 | `Tueur de familiers` | >15d | >750k |
-| `Pénitent` | >15d | 1m2 |
+| `Pénitent` | >15d | >1m2 |
 | `Voleur` | >1m | >2m |
 | `Assassin` | >1m | >3m |
 | `Tueur de percepteurs` | >1m | >5m |
