@@ -36,7 +36,8 @@ Ces rangs nécessitent d'être un membre actif de la guilde et d'avoir offert un
 | `Élu` | >10m |
 | `Mentor` | >5m |
 | `Apprenti` | >2m |
-| `Mascotte`| >1m |
+| `Pénitent`| >1m |
+| `Traître` | Oméga 0XP |
 | `Boulet` | lvl <175 |
 | `À l'essai`| lvl 175-200 |
 
@@ -48,9 +49,8 @@ Ces rangs nécessitent d'être un membre actif de la guilde et d'avoir offert un
 * `Bourreau`
 * `Tueur de percepteurs`
 * `Larbin`
-* `Pénitent`
+* `Mascotte`
 * `Déserteur`
-* `Traître`
 * `Voleur`
 * `Muse`
 * `Recruteur`
