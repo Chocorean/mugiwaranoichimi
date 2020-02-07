@@ -25,7 +25,7 @@ Ces rangs nécessitent d'être un membre actif de la guilde et d'avoir offert un
 
 *Filtered from least to most accessible*
 
-| Rank (11) | Guild XP |
+| Rank (13) | Guild XP |
 |-----------|----------|
 | `Diplomate`| >500M |
 | `Secrétaire`| >250m |
