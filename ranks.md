@@ -1,4 +1,5 @@
 # Mugiwara' no Ichimi ranks
+===========================
 
 ## Abstract
 
@@ -8,48 +9,51 @@ This document describes the internal organization of **Mugiwara' no Ichimi**, sp
 
 * `Meneur`
 * `Bras droit`
-* `Secrétaire` et `Trésorier`: Aujourd'hui pour créer une société, il faut *a minima* un président, un **trésorier** et un **secrétaire**. Ces deux rangs pourraient représenter des personnes légitimes de participer aux choix des directions et la guilde et de sa gestion, ou encore des personnes souhaitant nous représenter auprès de l'alliance.
-
-## Regular ranks
-
-*Filtered from most to least accessible*
-
-| Rank | Time since player joined | Guild XP |
-|------|--------------------------|----------|
-| `Apprenti` | >7d | >50k |
-| `Initié` | >7d | >100k |
-| `Éclaireur` | >7d | >200k |
-| `Réserviste` | >15d | >400k |
-| `Tueur de familiers` | >15d | >750k |
-| `Pénitent` | >15d | >1m2 |
-| `Voleur` | >1m | >2m |
-| `Assassin` | >1m | >3m |
-| `Tueur de percepteurs` | >1m | >5m |
-| `Bourreau` | >1m | >10m |
-| `Gardien` | >1m | >25m |
-| `Protecteur` | >1m | >50m |
-| `Conseiller` | >2m | >100m |
-| `Guide` | >2m | >250m |
-| `Diplomate` | >2m | >500m |
-| `Mentor` | >2m | >1M |
-| `Gouverneur` | >3m | >5M |
-| `Élu` | >3m | >10M |
-
-## Meaningful ranks
-
-* `Déserteur`: Joueur ayant quitté la guilde au moins une fois avant de revenir.
-* `Artisan`: Joueur ayant le titre `La Machine`.
-* `Eleveur`: Joueur possédant un élevage.
-* `Marchand`: Joueur expert en négociation et offres-en-or.
-* `Recruteur`: Joueur ayant considérablement recruté.
+* `Trésorier` et `Protecteur`: Ces deux rangs pourraient représenter des personnes légitimes de participer aux choix des directions et la guilde et de sa gestion, ou encore des personnes souhaitant nous représenter auprès de l'alliance.
 
 ## Special ranks
 
-*Je pense à des gens qui animent la guilde de par leurs actions ou leur comportement, genre typiquement moi avant de passer bd*
+Ces rangs nécessitent d'être un membre actif de la guilde et d'avoir offert un minimum de 2 milliards d'XP à la guilde. Une fois la quantité d'xp atteintes, les joueurs pourront demander à obtenir un des grades ci-dessous, n'étant octroyés qu'à de rares occasions.
 
-* `Boulet`: Joueur souvent à côté de la plaque.
-* `Mascotte`: Joueur iconique qui aime faire le *show*.
-* `Larbin`: Joueur se voyant régulièrement attribué des tâches ingrates.
-* `Muse`: **Petite salope** (faudrait une autre formulation mdr).
-* `Espion`: Joueur qui prévient qu'il s'absente *(évite le kick)*.
-* `Traitre`: Joueur absent depuis une semaine ou plus.
+* `Artisan`
+* `Réserviste`
+* `Gardien`
+* `Éclaireur`
+* `Espion`
+
+## Regular ranks
+
+*Filtered from least to most accessible*
+
+| Rank (11) | Guild XP |
+|-----------|----------|
+| `Diplomate`| >1M |
+| `Secrétaire`| >500m |
+| `Chercheur de trésors`| >250m |
+| `Assassin`| >125m |
+| `Gouverneur`| >65m |
+| `Conseiller`| >30m |
+| `Élu` | >15m |
+| `Guide` | >10m |
+| `Mentor` | >5m |
+| `Apprenti` | >2m |
+| `Mascotte`| >1m |
+| `Boulet` | lvl <175 |
+| `À l'essai`| lvl 175-200 |
+
+## Unused ranks
+
+* `Tueur de familiers`
+* `Initié`
+* `Braconnier`
+* `Bourreau`
+* `Tueur de percepteurs`
+* `Larbin`
+* `Pénitent`
+* `Déserteur`
+* `Traître`
+* `Voleur`
+* `Muse`
+* `Recruteur`
+* `Éleveur`
+* `Marchand`
