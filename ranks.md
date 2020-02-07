@@ -27,14 +27,13 @@ Ces rangs nécessitent d'être un membre actif de la guilde et d'avoir offert un
 
 | Rank (11) | Guild XP |
 |-----------|----------|
-| `Diplomate`| >1M |
-| `Secrétaire`| >500m |
-| `Chercheur de trésors`| >250m |
-| `Assassin`| >125m |
-| `Gouverneur`| >65m |
-| `Conseiller`| >30m |
-| `Élu` | >15m |
-| `Guide` | >10m |
+| `Diplomate`| >500M |
+| `Secrétaire`| >250m |
+| `Chercheur de trésors`| >125m |
+| `Assassin`| >65m |
+| `Gouverneur`| >30m |
+| `Conseiller`| >15m |
+| `Élu` | >10m |
 | `Mentor` | >5m |
 | `Apprenti` | >2m |
 | `Mascotte`| >1m |
