@@ -13,7 +13,7 @@ This document describes the internal organization of **Mugiwara' no Ichimi**, sp
 
 ## Special ranks
 
-Ces rangs nécessitent d'être un membre actif de la guilde et d'avoir offert un minimum de 2 milliards d'XP à la guilde. Une fois la quantité d'xp atteintes, les joueurs pourront demander à obtenir un des grades ci-dessous, n'étant octroyés qu'à de rares occasions.
+Ces rangs nécessitent d'être un membre actif de la guilde et d'avoir offert un minimum de 1 milliard d'XP à la guilde. Une fois la quantité d'xp atteintes, les joueurs pourront demander à obtenir un des grades ci-dessous, n'étant octroyés qu'à de rares occasions.
 
 * `Artisan`
 * `Réserviste`
@@ -27,22 +27,23 @@ Ces rangs nécessitent d'être un membre actif de la guilde et d'avoir offert un
 
 | Rank (13) | Guild XP |
 |-----------|----------|
-| `Diplomate`| >500M |
-| `Secrétaire`| >250m |
+| `Gardien`| >500M |
+| `Diplomate`| >250m |
 | `Chercheur de trésors`| >125m |
 | `Assassin`| >65m |
 | `Gouverneur`| >30m |
 | `Conseiller`| >15m |
 | `Élu` | >10m |
-| `Mentor` | >5m |
-| `Apprenti` | >2m |
-| `Pénitent`| >1m |
-| `Traître` | Oméga 0XP |
+| `Guide` | >5m |
+| `Mentor` | >2m |
+| `Apprenti`| >1m |
+| `Pénitent` | Oméga 0XP |
 | `Boulet` | lvl <175 |
 | `À l'essai`| lvl 175-200 |
 
 ## Unused ranks
 
+* `Secrétaire`
 * `Tueur de familiers`
 * `Initié`
 * `Braconnier`
